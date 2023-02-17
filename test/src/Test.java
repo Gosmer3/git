@@ -6,4 +6,9 @@ public class Test {
 
         //sdada
     }
+
+
+    public String kapa (){
+        return null;
+    }
 }
