@@ -4,11 +4,15 @@ public class Test {
         System.out.println("igen");
         System.out.println("igen igen");
 
-        //sdada
+        System.out.println("Hej");
+
+        System.out.println("Hej igen");
+        System.out.println("Yooooo");
+
+
     }
 
-
-    public String kapa (){
+    public String kapa() {
         return null;
     }
 }
